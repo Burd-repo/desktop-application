@@ -1,19 +1,24 @@
 <div align="left">
 
-  <a href="https://burd.ia">
-    <img src="./public/burd-logo.svg" alt="Logo da Burd" title="Burd Desktop Application" align="left" height="40" />
-  </a>
+<a href="https://burd.ia">
+  <img src="./public/burd-logo.svg" alt="Logo da Burd" title="Burd Desktop Application" height="48" />
+</a>
 
-**Burd Desktop Application** é o console local da Burd para validar máquinas, gerenciar o Burd Agent e preparar um computador para atuar como provider de compute na rede Burd.
+<br />
 
-[![release](https://img.shields.io/github/v/release/Burd-repo/desktop-application.svg)](https://github.com/Burd-repo/desktop-application/releases)
-[![stars](https://img.shields.io/github/stars/Burd-repo/desktop-application)](https://github.com/Burd-repo/desktop-application/stargazers)
-[![forks](https://img.shields.io/github/forks/Burd-repo/desktop-application)](https://github.com/Burd-repo/desktop-application/forks)
-[![license](https://img.shields.io/github/license/Burd-repo/desktop-application)](https://github.com/Burd-repo/desktop-application/blob/main/LICENSE)
+<p>
+  Console local da Burd para validar máquinas, gerenciar o Burd Agent e preparar um computador para atuar como provider de compute na rede Burd.
+</p>
+
+[![status](https://img.shields.io/badge/status-active-2C5E8A)](https://github.com/Burd-repo/desktop-application)
+[![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![platform](https://img.shields.io/badge/platform-desktop-lightgrey)](https://github.com/Burd-repo/desktop-application)
+[![provider](https://img.shields.io/badge/provider-validation-blue)](https://github.com/Burd-repo/desktop-application)
 
 </div>
 
 ---
+
 
 ## Sumário
 
