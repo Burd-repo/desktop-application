@@ -4,8 +4,6 @@
     <img src="./public/burd-logo.svg" alt="Logo da Burd" title="Burd Desktop Application" align="left" height="40" />
   </a>
 
-# Burd Desktop Application
-
 **Burd Desktop Application** é o console local da Burd para validar máquinas, gerenciar o Burd Agent e preparar um computador para atuar como provider de compute na rede Burd.
 
 [![release](https://img.shields.io/github/v/release/Burd-repo/desktop-application.svg)](https://github.com/Burd-repo/desktop-application/releases)
